@@ -88,6 +88,7 @@ Each notebook includes **GRAD-CAM visualizations** that highlight the regions in
 ## Notes
 - The models implemented here (CNN, ViT, and ViT+CNN) are based on standard, well-known architectures implemented as part of my learning journey.
 - The repository provides baseline models and explainability tools to serve as reference points for evaluating more advanced plant disease detection models.
+- *Detailed training results and evaluation metrics for each model are available directly inside the notebooks.*
 
 ---
 
